@@ -4,4 +4,4 @@ title: About
 ---
 # About page
 
-This page tells you a little bit about me.
+We're here to assist you with learning how to budget, understand taxes, and make educated financial decisions.

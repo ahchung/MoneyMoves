@@ -1,6 +1,6 @@
 ---
 short_name: ted
-name: Ted Doe
+name: Budgeting
 position: Writer
 ---
 Ted has been eating fruit since he was baby.
